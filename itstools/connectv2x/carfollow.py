@@ -15,7 +15,7 @@ from .vehicles import Vehicle, DT, K_X, W_I, U_I
 # Constants
 # ==============================================================================
 
-T_E = 0.2
+T_E = 0.1
 S_0 = 1 / K_X
 
 # TAMPERE MODEL
